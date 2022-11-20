@@ -1,0 +1,51 @@
+word,count,tag
+club mix,224,DURATION
+vocal mix,168,STEM
+dub mix,145,STEM
+house mix,37,GENRE
+deep mix,26,GENRE
+soul mix,21,GENRE
+deep remix,16,GENRE
+disco mix,15,GENRE
+soul remix,14,GENRE
+classic mix,14,DURATION
+funk mix,13,GENRE
+night mix,12,GENRE
+12 inch,12,GENRE
+funk remix,11,GENRE
+sunrise mix,11,GENRE
+house remix,11,GENRE
+boogie mix,10,GENRE
+groove mix,9,GENRE
+club version,9,DURATION
+sunset mix,8,GENRE
+disco remix,8,GENRE
+disco version,7,GENRE
+acid remix,7,GENRE
+groove remix,7,GENRE
+trance mix,6,GENRE
+acid mix,6,GENRE
+dance mix,6,GENRE
+sunrise remix,6,GENRE
+tech mix,6,GENRE
+tribal mix,6,GENRE
+anthem mix,6,GENRE
+underground mix,6,GENRE
+remix,8012,REMIX
+extended,1264,DURATION
+dub,775,STEM
+radio,412,DURATION
+vocal,350,STEM
+instrumental,310,STEM
+original,183,DURATION
+rework,130,REMIX
+- live,32,QUALITY
+accapella,31,GENRE
+afro,27,GENRE
+rmx,23,REMIX
+piano,23,GENRE
+mixed,22,QUALITY
+feat.,19,FEATURE
+ambient,15,GENRE
+underground,15,GENRE
+
